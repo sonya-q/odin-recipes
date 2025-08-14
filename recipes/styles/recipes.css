@@ -1,0 +1,13 @@
+* {
+  padding: 0;
+  margin-left: 20px;
+}
+
+.recipe-name{
+  margin: 40px;
+  wdith: 500px;
+}
+
+.link-home{
+  display: inline-block;
+}

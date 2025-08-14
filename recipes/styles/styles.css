@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.title {
+  margin: 40px;
+}
+
+.list{
+  margin-left: 40px;
+}
+
+.list .recipe {
+  padding: 5px;
+}
